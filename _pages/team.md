@@ -3,7 +3,7 @@ title: "Allan Lab - Team"
 layout: gridlay
 excerpt: "Allan Lab: Team members"
 sitemap: false
-permalink: {{ site.baseurl }}/team/
+permalink: /team/
 ---
 
 # Group Members
